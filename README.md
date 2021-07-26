@@ -1,4 +1,1 @@
--  Hi, I’m Shubham Bhatt
-- I’m an aspiring data scientist.
-- I’m currently learning NLP
-
+Fake News Detection Using Various Machine Algorithm:
