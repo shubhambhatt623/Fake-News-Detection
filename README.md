@@ -6,7 +6,8 @@ Our Project aims to use Natural Language Procesing to detect fake news based on 
 
 The intended application of the project is for use in applying visibility weights .  Using weights produced by this model, websites can make stories which are highly likely to be fake news less visible.
 
-Output:
+### Output:
+
 ![1](https://user-images.githubusercontent.com/25205826/130325304-d9dee3f5-c52f-4adb-8d25-7f64c4cb6cd5.PNG)
 
 ![2 new](https://user-images.githubusercontent.com/25205826/130325283-e043c3f2-407b-4df0-9756-aa66a524717b.PNG)
